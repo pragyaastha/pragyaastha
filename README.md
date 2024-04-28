@@ -1,4 +1,4 @@
-![logo](https://github.com/pragyaastha/pragyaaastha/blob/main/banner.jpg)
+![logo](https://github.com/pragyaastha/pragyaastha/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm pragyaAastha</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
